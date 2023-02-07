@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a84855a508e5bce4a9702534c2dff318
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VNI-Baybuom
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 682671141b68b234a8f4ce3de3e679a2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

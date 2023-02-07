@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cb018d2bab4a96d488c7a7f0bc3abb18
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VNI-Thufap3
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7372fedb08ac5364a9cd1160091dcf07, type: 3}
+  - {fileID: 12800000, guid: b95bf0da4ca6baf4fab72198847d8cef, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

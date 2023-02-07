@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: de19d66aa8912914a9c0314382daa5cb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VNI-Comicbook
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 93fec53f07f09764f98356319c1224cc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

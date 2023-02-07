@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cc58dc0ed781f7b44a4478df55c36e1f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VNI-Matisse
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2084898ebcec12b45b9888ff21157a2a, type: 3}
+  - {fileID: 12800000, guid: 46ac341fe1063c947a11d0b034a89df6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

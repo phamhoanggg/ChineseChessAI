@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 282ede3fa10c0ee4d9a706ac63c4ec8a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VNI-Truck
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a1344542c0131414b8585e1a11ac9d1b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

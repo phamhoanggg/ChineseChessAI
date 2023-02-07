@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9fd9819ede0dd04418c429cbc62bca12
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - .TMC-Ong Do
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 458023b1eb810404389cbac51e4304ce, type: 3}
+  - {fileID: 12800000, guid: 30e854375378d1947aae7c8a24614ab1, type: 3}
+  - {fileID: 12800000, guid: 151aedc0b6921374aa333bd51c44952a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
